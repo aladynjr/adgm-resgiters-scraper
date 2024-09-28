@@ -5,6 +5,10 @@ This project consists of two Node.js scripts for scraping data from the Abu Dhab
 1. `scrape_fsra_register.js`: Scrapes the Financial Services Regulatory Authority (FSRA) register.
 2. `scrape_practitioners_register.js`: Scrapes the Register of Insolvency Practitioners.
 
+
+<img src="images/website.png" alt="ADGM Website Screenshot" width="600">
+
+
 ## Prerequisites
 
 - Node.js (version 12 or higher recommended)
